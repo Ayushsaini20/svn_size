@@ -1,0 +1,3 @@
+https://ayushsaini.jfrog.io/artifactory/demo-generic-local/fontawesome-webfont.bin, 252544 bytes
+https://ayushsaini.jfrog.io/artifactory/demo-generic-local/Lato-Regular.bin, 56448 bytes
+Total size of binary files: 308992 bytes
